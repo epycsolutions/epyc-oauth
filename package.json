@@ -1,0 +1,29 @@
+{
+  "name": "epyc-oauth",
+  "version": "1.0.0",
+  "description": "oAuth system for better integration in vuejs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epycsolutions/better-authentication.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord-oauth2",
+    "vuejs",
+    "oauth2",
+    "discord",
+    "epycsolutions"
+  ],
+  "author": "Epyc Solutions <info@epycdev.eu> (https://epycdev.eu)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epycsolutions/better-authentication/issues"
+  },
+  "homepage": "https://github.com/epycsolutions/better-authentication#readme",
+  "devDependencies": {
+    "axios": "^0.27.2"
+  }
+}
